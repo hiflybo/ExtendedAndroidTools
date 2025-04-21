@@ -65,6 +65,3 @@ include projects/project.mk
 include projects/licenses.mk
 include projects/*/build.mk
 include sysroot/*.mk
-
-
-
